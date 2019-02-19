@@ -1,7 +1,7 @@
 ---
 layout: post
-title: REACT - REDUX/SAGA, FIREBASE 연동 예제
-subtitle: React.js 환경 내에서 **redux** 와 **redux-saga**를 이용한 구성 방법을 설명한다.
+title: REACT,FIREBASE 연동
+subtitle: React.js 환경 내에서 redux 와 redux-saga 이용 방법 연구
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [react]
