@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: .
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+안녕하세요. 김우람 입니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 오픈오브젝트 근무중
+- 프론트앤드 개발자
 
-What else do you need?
+
 
 ### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+...
