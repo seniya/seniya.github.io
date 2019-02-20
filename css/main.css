@@ -24,7 +24,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font: 400 18px/1.8 "Apple SD Gothic Neo","Nanum Barun Gothic","Nanum Gothic",Verdana,Arial,"Malgun Gothic",Dotum,sans-serif;
+  font-family: "Apple SD Gothic Neo","Nanum Barun Gothic","Nanum Gothic",Verdana,Arial,"Malgun Gothic",Dotum,sans-serif;
   color: #212121;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
