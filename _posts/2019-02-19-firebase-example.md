@@ -4,17 +4,15 @@ title: REACT,FIREBASE 연동
 subtitle: React.js 환경 내에서 redux 와 redux-saga 이용 방법 연구
 gh-repo: seniya/firebase-example-1
 gh-badge: [star, fork, follow]
-tags: [react]
+tags: [react, firebase, redux]
 comments: true
 ---
 
 
-# REACT - REDUX/SAGA, FIREBASE 연동 예제
-
 React.js 환경 내에서 **redux** 와 **redux-saga**를 이용한 구성 방법을 설명한다.
 또한 **Firebase** 를 이용하여 간단한 Backend 시스템을 구축하여 연동한다.
 
-## sample image
+## Sample image
 ![enter image description here](https://raw.githubusercontent.com/seniya/firebase-example-1/master/src/assets/firebase-example-1.PNG)
 
 
