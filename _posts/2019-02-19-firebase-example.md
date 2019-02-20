@@ -2,7 +2,7 @@
 layout: post
 title: REACT,FIREBASE 연동
 subtitle: React.js 환경 내에서 redux 와 redux-saga 이용 방법 연구
-gh-repo: daattali/beautiful-jekyll
+gh-repo: seniya/firebase-example-1
 gh-badge: [star, fork, follow]
 tags: [react]
 comments: true
