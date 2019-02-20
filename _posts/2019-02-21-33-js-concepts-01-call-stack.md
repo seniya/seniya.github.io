@@ -27,3 +27,7 @@ let fn2 = function() {
 fn1();
 {% endhighlight %}
 
+
+<h1 align="center">
+  <img src="/img/posts/2019-02-21-33-js-concepts-01-call-stack.jpg" alt="call stack example">
+</h1>
