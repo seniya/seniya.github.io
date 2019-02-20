@@ -7,8 +7,13 @@ layout: null
 /* --- General --- */
 
 body {
-  font: 400 18px/1.8 "Apple SD Gothic Neo","Nanum Barun Gothic","Nanum Gothic",Verdana,Arial,"Malgun Gothic",Dotum,sans-serif;
-  color: #212121;
+  color          : #404040;
+  font-family    : "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif;
+  font-size      : 17px; 
+  text-align     : left;
+  letter-spacing : -0.3px;
+  line-height    : 27px;
+  word-wrap      : break-word;
   /*font-family: 'Lora', 'Times New Roman', serif;*/
   /*font-size: 18px;*/
   /*color: #404040;*/
@@ -24,8 +29,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Apple SD Gothic Neo","Nanum Barun Gothic","Nanum Gothic",Verdana,Arial,"Malgun Gothic",Dotum,sans-serif;
-  color: #212121;
+  font-family    : "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
 }
