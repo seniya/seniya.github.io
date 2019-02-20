@@ -164,15 +164,6 @@ paginate: 5
 kramdown:
   input: GFM
 
-# 테그 기능과 작성자 분류를 위하여 추가
-collections:
-  tags:
-    output: true
-    permalink: /tags/:path/
-  authors:
-    output: true
-    permalink: /authors/:path/
-
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
