@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: 모든 자바스크립트 개발자가 알아야 하는 33가지 개념
-subtitle: 33 Concepts Every JavaScript Developer Should Know 주제 번역본
+title: [33 JavaScript Concepts] - 00.개론
+subtitle: 모든 자바스크립트 개발자가 알아야 하는 33가지 개념 (33 Concepts Every JavaScript Developer Should Know) 주제 번역본
 gh-repo: yjs03057/33-js-concepts
 gh-badge: [star, fork, follow]
 tags: [javascript, ECMAScript, ECMA스크립트, 33-js-concepts]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REACT CRUD Sample 프로젝트
+title: React CRUD Sample 프로젝트
 subtitle: React.js 환경 내에서 페이지 이동, material-ui와 axios를 이용한 crud 구성
 gh-repo: seniya/react-crud-sample
 gh-badge: [star, fork, follow]
