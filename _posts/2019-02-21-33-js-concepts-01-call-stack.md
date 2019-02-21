@@ -40,9 +40,11 @@ fn1();
 1. **fn1-fn2** 함수에 의해 불러진 line 6번째 **fn2()**의 코드를 순차적으로 조사. line 7번째 **console.log('fn2 실행');** 를 Call Stack List 에 추가. (**fn2-cs 지칭**)
 1. **fn2-cs** 실행 후 Call Stack 에서 해당 단위를 삭제.
 1. **fn1-fn2** 함수도 완료가 되었으므로 Call Stack 에서 해당 단위를 삭제.
-1. **main** 함수도 완료가 되었으므로 Call Stack 에서 해당 단위를 삭제.
+1. **main** 함수도 완료가 되었으므로 Call Stack 에서 해당 단위를 삭제.  
 
 
+<br />
+<br />
 ### 재귀 호출 예제
 
 {% highlight javascript linenos %}
