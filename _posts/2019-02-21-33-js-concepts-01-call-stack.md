@@ -12,7 +12,8 @@ by [MDN Web Docs](https://developer.mozilla.org/ko/docs/Glossary/Call_stack)
 
 >호출 스택은 여러 함수들(functions)을 호출하는 스크립트에서 해당 위치를 추적하는 인터프리터 (웹 브라우저의 자바스크립트 인터프리터같은)를 위한 메커니즘입니다. 현재 어떤 함수가 동작하고있는 지, 그 함수 내에서 어떤 함수가 동작하는 지, 다음에 어떤 함수가 호출되어야하는 지 등을 제어합니다.
 
-
+<br />
+<br />
 ### 일반 예제
 {% highlight javascript linenos %}
 let fn1 = function() {
@@ -57,5 +58,15 @@ fn1();
 
 <h1 align="center">
   <img src="https://seniya.github.io/img/posts/2019-02-21-33-js-concepts-01-call-stack2.jpg" alt="call stack example2">
+  <img src="https://seniya.github.io/img/posts/2019-02-21-33-js-concepts-01-call-stack3.jpg" alt="call stack example3">
 </h1>
+
+1. line 5번째 **fn1();** 구문이 호출되어 Call Stack List 에 추가. (**main 지칭**)
+1. **main** 함수에 의해 불러진 line 1번째 **fn1()**이 Call Stack List 에 추가.
+1. **fn1()** 함수에 의해 다시 자기 자신이 호출되어 **fn1()**이 Call Stack List 에 추가.
+1. 계속 반복...
+1. 정해진 Call Stack의 크기보다 많은 수가 스택에 쌓일 경우 에러 발생.
+
+
+
 
