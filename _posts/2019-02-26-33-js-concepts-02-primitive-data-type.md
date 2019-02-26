@@ -46,7 +46,8 @@ CMAScript 2015 (6th Edition) 기준  7개의 자료형 정의
 
 - `String`  
 : 텍스트 데이터를 나타내는데 사용. 16비트 부호없는 정수 값 요소들의 집합.  
-: 배열처럼 인덱스를 통해 접근 가능한 유사 배열 특징.(read only)
+: 배열처럼 인덱스를 통해 접근 가능한 유사 배열 특징.(read only)  
+
 ```javascript
 let str = "Primitive";    // 큰 따옴표
 let str = 'values';       // 작은 따옴표
