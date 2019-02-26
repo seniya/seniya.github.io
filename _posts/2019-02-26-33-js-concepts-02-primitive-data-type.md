@@ -56,7 +56,8 @@ let str = `Javascript`;   // 백틱(ES6 템플릿 리터럴)
 - `Number`  
 : ECMAScript 표준에 정의된 배정밀도 64비트 형식 IEEE 754 값 (-(253 -1) 와 253 -1 사이의 숫자값) 을 표현한다.  
 : Infinity(양의 무한대), -Infinity(음의 무한대), NaN(숫자가 아님) 표현가능.  
-: 모든 수를 실수로 처리한다.
+: 모든 수를 실수로 처리한다.  
+
 ```javascript
 let num = 10;   // 정수
 let num = 10.0; // 실수 (10 === 10.0)
@@ -71,7 +72,8 @@ Infinity
 ```
 
 - `Boolean`  
-: 논리적인 요소를 나타내고, **true** 와 **false** 의 두 가지 값을 가질 수 있다.
+: 논리적인 요소를 나타내고, **true** 와 **false** 의 두 가지 값을 가질 수 있다.  
+
 ```javascript
 let boolA = true;   // true
 let boolB = false;  // false
@@ -81,7 +83,8 @@ let boolC = (boolA === boolB);  // false
 
 - `Null`  
 : 어떤 값이 의도적으로 비어있음을 표현. 타입의 값은 **null**이 유일  
-: 어떤 값에 null을 할당한다면 메모리 할당 정보를 제거 한다는 의미로 가비지 컬렉션이 수행될 것이 기대.
+: 어떤 값에 null을 할당한다면 메모리 할당 정보를 제거 한다는 의미로 가비지 컬렉션이 수행될 것이 기대.  
+
 ```javascript
 // 정의되지 않고 초기화된 적도 없는 foo
 > foo;
@@ -94,7 +97,8 @@ foo;  // null
 
 
 - `Undefined`  
-: 값이 할당 되지 안는 변수들이 가지는 자료형으로 **undefined** 값을 가진다.
+: 값이 할당 되지 안는 변수들이 가지는 자료형으로 **undefined** 값을 가진다.  
+
 ```javascript
 let foo;
 foo;  // undefined
