@@ -12,9 +12,29 @@ by [MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_stru
 
 >오브젝트를 제외한 모든 값은 변경 불가능한 값 (immutable value) 이다. 예를 들자면, 특히 C 언어와는 다르게도, 문자열은 불변값 (immutable) 이다. 이런 값을 "primitive values" 라고 일컫는다.
 
+<br />  
 
-### JavaScript 전체 자료형
+### JavaScript 전체 자료형 #1
 <h1 align="center">
-  <img src="https://seniya.github.io/img/posts/2019-02-26-33-js-concepts-02-primitive-data-type.PNG" alt="call stack example">
+  <img src="https://seniya.github.io/img/posts/2019-02-26-33-js-concepts-02-primitive-data-type.PNG" alt="JavaScript Data type">
 </h1>
 
+<br />  
+
+### JavaScript 전체 자료형 #2  
+
+CMAScript 2015 (6th Edition) 기준  7개의 자료형 정의
+
+-  원시 타입 (Primitive values)
+   - `String`
+   - `Number`
+   - `Boolean`
+   - `Null`
+   - `Undefined`
+   - `Symbol`
+- 객체 타입 (Object values)
+  - `Object`  
+
+  <br />   
+
+  
