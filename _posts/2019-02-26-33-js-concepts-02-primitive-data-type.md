@@ -10,7 +10,7 @@ comments: true
 ### 원시 타입 (Primitive values) 이란
 by [MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_structures)
 
->오브젝트를 제외한 모든 값은 변경 불가능한 값 (immutable value) 이다. 예를 들자면, 특히 C 언어와는 다르게도, 문자열은 불변값 (immutable) 이다. 이런 값 을 "primitive values" 라고 일컫는다.  
+>오브젝트를 제외한 모든 값은 변경 불가능한 값 (immutable value) 이다. 예를 들자면, 특히 C 언어와는 다르게도, 문자열은 불변값 (immutable) 이다. 이런 값을 "primitive values" 라고 일컫는다.  
 
 - **Primitive Data Type** 은 값이 저장된 스택(Stack )메모리 영역에 직접적으로 접근한다. (Pass by Value)
 - **Object Data type** 은 변수의 값이 저장된 힙(Heap) 메모리 영역의 주소값을 저장한다. (Pass by Reference)
