@@ -3,14 +3,12 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 
 /* --- General --- */
 
 body {
   color          : #404040;
-  /*font-family    : "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif;*/
-  font-family    : 'Noto Sans', sans-serif;
+  font-family    : "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", Dotum, 돋움, sans-serif;
   font-size      : 16px; 
   text-align     : left;
   letter-spacing : -0.3px;
@@ -507,7 +505,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 25px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -563,11 +561,11 @@ footer .theme-by {
   }
   .intro-header .page-heading h1 {
     /* font-size: 80px; */
-    font-size: 50px;
+    font-size: 25px;
   }
   .intro-header .post-heading h1 {
     /* font-size: 50px; */
-    font-size: 35px;
+    font-size: 25px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
