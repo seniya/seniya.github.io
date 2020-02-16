@@ -37,7 +37,9 @@ CMAScript 2015 (6th Edition) 기준  7개의 자료형 정의
    - `Undefined`
    - `Symbol`
 - 객체 타입 (Object values)
-  - `Object`  
+  - `Native object` (Object, Array, Function, String, Number, Date, Math ...)  
+  - `Host object` (BOM-window, DOM-document)
+  - `User-defined object`
 
   <br />   
 
@@ -107,3 +109,21 @@ foo;  // undefined
 
 - `Symbol`  
 : ECMAScript 6 에서 추가된 타입. Symbol은 유일하고 변경 불가능한 (immutable) 기본값 (primitive value) 이다. 또한, 객체 속성의 key 값으로도 사용될 수 있다 (아래를 볼 것). 몇몇 프로그래밍 언어에서는 Symbol을 atom 이라고 부른다. 또, C 언어의 이름있는 열거형 (enum) 과도 비슷하다.
+
+
+<br /> 
+<br /> 
+
+### 객체(참조) 타입 (Object values) 상세
+
+> 원시 타입을 제외한 나머지 값들을 의미한다. 자바스크립트 객체는 key/value 쌍으로 표현된 property 들의 집합이다. (ex. Function, Array, Date, Mate, Window ...)
+
+- Built-in Object(자바스크립트 내장객체)  
+: Object, String, Number, Array, Function, Math, Date 등 Javascript 에서 제공하는 객체  
+: ECMAScript(표준 문서)에 정의되어 있습니다.
+
+- Native Object(브라우져 내장 객체)   
+: BOM(Browser Object Model), DOM(Document Object Model) 브라우저에서 제공하는 객체
+
+- Host Object(사용자 정의 객체)   
+: 사용자가 정의하여 사용
