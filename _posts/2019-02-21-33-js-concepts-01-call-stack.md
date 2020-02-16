@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 33 JavaScript Concepts - 01.호출스택 (Call Stack)
+title: 33 JS Concepts - 01.호출스택 (Call Stack)
 subtitle: 모든 자바스크립트 개발자가 알아야 하는 33가지 개념 - 01.호출 스택 (Call Stack)
 tags: [javascript, ECMAScript, ECMA스크립트, 33-js-concepts, call stack]
 image: /img/posts/2019-02-21-모든 자바스크립트 개발자가 알아야 하는 33가지 개념.jpg

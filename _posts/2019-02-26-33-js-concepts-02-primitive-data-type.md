@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 33 JavaScript Concepts - 02.원시 자료형(Primitive Data type)
+title: 33 JS Concepts - 02.원시 자료형(Primitive Data type)
 subtitle: 모든 자바스크립트 개발자가 알아야 하는 33가지 개념 - 02.원시 자료형(Primitive Data type)
 tags: [javascript, ECMAScript, ECMA스크립트, 33-js-concepts, primitive]
 image: /img/posts/2019-02-21-모든 자바스크립트 개발자가 알아야 하는 33가지 개념.jpg
