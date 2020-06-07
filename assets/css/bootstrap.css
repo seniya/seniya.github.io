@@ -271,8 +271,8 @@ html {
 body {
   /* font-family: "Open Sans", Calibri, Candara, Arial, sans-serif; */
    font-family: 'Noto Sans KR', sans-serif;
-  font-size: 15px;
-  line-height: 1.42857143;
+  font-size: 16px;
+  line-height: inherit;
   color: #333333;
   background-color: #ffffff;
 }
@@ -595,7 +595,7 @@ dl {
 }
 dt,
 dd {
-  line-height: 1.42857143;
+  line-height: 1.52857143;
 }
 dt {
   font-weight: bold;
@@ -692,7 +692,7 @@ samp {
 }
 code {
   padding: 2px 4px;
-  font-size: 90%;
+  font-size: 100%;
   color: #c7254e;
   background-color: #f9f2f4;
   white-space: nowrap;
@@ -700,7 +700,7 @@ code {
 }
 kbd {
   padding: 2px 4px;
-  font-size: 90%;
+  font-size: 100%;
   color: #ffffff;
   background-color: #333333;
   border-radius: 0;
@@ -710,8 +710,8 @@ pre {
   display: block;
   padding: 10px;
   margin: 0 0 10.5px;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 16px;
+  line-height: 1.8;
   word-break: break-all;
   word-wrap: break-word;
   color: #333333;
