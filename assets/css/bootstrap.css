@@ -272,7 +272,7 @@ body {
   /* font-family: "Open Sans", Calibri, Candara, Arial, sans-serif; */
    font-family: 'Noto Sans KR', sans-serif;
   font-size: 16px;
-  line-height: inherit;
+  line-height: 1.8;
   color: #333333;
   background-color: #ffffff;
 }
@@ -691,7 +691,7 @@ samp {
    font-family: 'Noto Sans KR', sans-serif;
 }
 code {
-  padding: 2px 4px;
+  padding: 1px 1px;
   font-size: 100%;
   color: #c7254e;
   background-color: #f9f2f4;
