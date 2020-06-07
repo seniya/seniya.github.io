@@ -11,7 +11,7 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            '말랭 블로그'
-tagline:          'A Metro theme for Jekyll'
+tagline:          '말랭 블로그'
 description:      '말랭 블로그'
 url:              'https://seniya.github.io'
 baseurl:          ''
