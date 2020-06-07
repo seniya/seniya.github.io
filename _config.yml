@@ -10,9 +10,9 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
+title:            '말랭 블로그'
 tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+description:      '말랭 블로그'
 url:              'https://seniya.github.io'
 baseurl:          ''
 
@@ -38,28 +38,28 @@ author:         'Abdel Raoof Olakara'
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/seniya'
+gplus:          
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  
+twitter:        
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: ''
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'seniya'
 
 # txtpen
-txtpenhandler: 'testingblogo'
+txtpenhandler: ''
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
