@@ -1,1 +1,0 @@
-from [beautiful-jekyll](http://deanattali.com/beautiful-jekyll)
