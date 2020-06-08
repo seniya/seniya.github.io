@@ -1,10 +1,10 @@
 ---
 layout: post
-title: TypeScript | TypeScript 시작하기 - 01
+title: TypeScript. TypeScript 시작하기 - 01
 subtitle: typescript 시작하기
 gh-repo: seniya/study_well/tree/master/ready_01_typescript
 gh-badge: [star, fork, follow]
-tags: [javascript, typescript]
+tags: [TypeScript]
 categories: javascript
 comments: true
 ---

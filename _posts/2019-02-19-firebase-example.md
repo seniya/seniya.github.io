@@ -1,10 +1,10 @@
 ---
 layout: post
-title: React] React, Firebase 연동 예제
+title: React. Firebase 연동 예제
 subtitle: React.js 환경 내에서 redux 와 redux-saga 이용 방법 연구
 gh-repo: seniya/firebase-example-1
 gh-badge: [star, fork, follow]
-tags: [javascript, react, firebase, redux]
+tags: [React]
 comments: true
 ---
 
