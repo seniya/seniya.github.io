@@ -80,3 +80,8 @@
 .tags {
   text-align: justify;
 }
+
+.post-title {
+  font-size: 28px;
+  font-weight: 400;
+}
