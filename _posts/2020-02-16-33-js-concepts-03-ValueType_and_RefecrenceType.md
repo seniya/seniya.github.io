@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: 33 JS Concepts - 03.값 타입(Value Type)과 참조 타입(Refecrence Type)
-subtitle: 모든 자바스크립트 개발자가 알아야 하는 33가지 개념 - 02.Pass by Value vs Pass by Reference
-tags: [javascript, ECMAScript, 33-js-concepts, pass by]
+title: [33-js-concepts] - 03.값 타입(Value Type)과 참조 타입(Refecrence Type)
+subtitle: 03. Pass by Value vs Pass by Reference
+tags: [33-js-concepts]
 image: /img/posts/2019-02-21-모든 자바스크립트 개발자가 알아야 하는 33가지 개념.jpg
 comments: true
 ---
