@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reac, Firebase, Dropzone 연동 예제
+title: React) React, Firebase, Dropzone 연동 예제
 subtitle: React.js 환경 내에서 firebase와 redux-dropzone를 이용한 업로드 서비스 구성
 gh-repo: seniya/file-upload-example-1
 gh-badge: [star, fork, follow]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Progressive Web App sample code - by Google
+title: PWA | Progressive Web App sample code - by Google
 subtitle: 해당 샘플 코드를 통하여 PWA 개념을 이해한다.
 gh-repo: seniya/pwa-sample
 gh-badge: [star, fork, follow]
