@@ -15,3 +15,8 @@ comments: true
 - 에디터 ex) VSCode - Visual Studio Code
 - Javasciprt 선행지식
 - node 및 npm 선행지식
+
+
+```sh
+npm init
+```
