@@ -9,21 +9,24 @@ categories: javascript
 comments: true
 ---
 
-### 준비물
+### 시작 전 준비물
 
 - node 환경 및 인터넷 환경
 - 에디터 ex) <span class="">VSCode</span> - Visual Studio Code
 - Javasciprt 선행지식
 - node 및 npm 선행지식
 
-### 1. 환경 준비
+<br />
+
+# 1. 환경 준비
 
 먼저 사용하고 하는 디렉토리로 이동하여 다음과 같이 노드패키지메지저를 초기화 합니다.
 
 <br />
-shell)
 
 ```sh
+# [shell]
+
 > mkdir 01_typescript  # 사용하고자 하는 디렉토리
 > cd 01_typescript # 이동
 
@@ -45,18 +48,20 @@ shell)
 ```
 
 <br />
-source) **main.js**
 
 ```js
+// [source] main.js
+
 let message1: boolean;
 message1 = true;
 console.log('console1 :>> ', message1, typeof message1);
 ```
 
 <br />
-shell)
 
 ```sh
+# [shell]
+
 # shell 에서 tsc 실행 후 main.js 파일 생성 확인
 > tsc main.ts
 
@@ -67,7 +72,9 @@ console1 :>>  true boolean
 
 **첫 타입스크립트 작성을 축하합니다 ✔**
 
-### 2. Typescript 란
+<br />
+
+# 2. Typescript 란
 
 - 이미 많은 설명과 글들이 존재하기에 몇몇 링크로 대신합니다.
 
@@ -79,3 +86,9 @@ console1 :>>  true boolean
 [TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)  
 [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)  
 [TypeScript 나무위키](https://namu.wiki/w/TypeScript)
+
+<br />
+
+# 3. Typescript Basic
+
+- 자주 사용되는 [자바스크립트의 자료형](https://seniya.github.io/blog/2019/02/26/33-js-concepts-02-primitive-data-type)을 통하여 기본 사용법을 안내합니다.
