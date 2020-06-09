@@ -50,7 +50,7 @@ comments: true
 <br />
 
 ```js
-// [source] main.js
+// [source] main.ts
 
 let message1: boolean;
 message1 = true;
@@ -96,9 +96,25 @@ console1 :>>  true boolean
 ## 3-1 기본형 boolean
 
 ```js
-// [source] main.js
+// [source] main.ts
 
 let message1: boolean;
 message1 = true;
 console.log('console1 :>> ', message1, typeof message1);
 ```
+
+```sh
+# [shell]
+
+> tsc main.ts
+> node main.js
+console1 :>>  true boolean
+```
+
+- 먼저 작성 하려고 하는 `파일이름.ts` 의 파일을 생성합니다.
+- 사용하려는 데이터(변수 또는 함수) 옆에 `:(콜론)` 과 함께 사용하려는 데이터의 타입을 선언합니다. 이후 이어서 작성합니다.
+  > ex) 데이터 : 타입
+- 작성이 완료된 `파일이름.ts` 파일을 `tsc` 명령어를 이용하여 `파일이름.js` 로 변환(컴파일) 합니다.
+- 변환된 `파일이름.js` 를 이용하여 프로그램 작성을 계속 진행합니다.
+
+* 선언한된 데이터를 다른 타입으로 사용하려고 하면 컴파일 과정에서 에러가 발생하고 js 파일이 생성되지 않습니다.
