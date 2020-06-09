@@ -66,3 +66,16 @@ console1 :>>  true boolean
 ```
 
 **첫 타입스크립트 작성을 축하합니다 ✔**
+
+### 2. Typescript 란
+
+- 이미 많은 설명과 글들이 존재하기에 몇몇 링크로 대신합니다.
+
+[공식사이트](https://www.typescriptlang.org/index.html) 발췌
+
+> TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Any browser. Any host. Any OS. Open source.
+
+[TypeScript #1 타입스크립트란 무엇인가?](https://medium.com/@wonjong_oh/typescript-1-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f4b02f54009c)  
+[TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)  
+[TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)  
+[TypeScript 나무위키](https://namu.wiki/w/TypeScript)
