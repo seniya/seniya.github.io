@@ -92,3 +92,13 @@ console1 :>>  true boolean
 # 3. Typescript Basic
 
 - 자주 사용되는 [자바스크립트의 자료형](https://seniya.github.io/blog/2019/02/26/33-js-concepts-02-primitive-data-type)을 통하여 기본 사용법을 안내합니다.
+
+## 3-1 기본형 boolean
+
+```js
+// [source] main.js
+
+let message1: boolean;
+message1 = true;
+console.log('console1 :>> ', message1, typeof message1);
+```
