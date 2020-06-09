@@ -20,7 +20,7 @@ by [MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_stru
 
 ### JavaScript 전체 자료형 #1
 
-<img src="../assets/images/post/20190226/2019-02-26-33-js-concepts-02-primitive-data-type.PNG">
+<img src="/assets/images/post/20190226/2019-02-26-33-js-concepts-02-primitive-data-type.PNG">
 
 <br />
 
