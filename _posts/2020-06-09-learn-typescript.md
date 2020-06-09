@@ -18,7 +18,7 @@ comments: true
 
 <br />
 
-# 1. 환경 준비
+## 1. 환경 준비
 
 먼저 사용하고 하는 디렉토리로 이동하여 다음과 같이 노드패키지메지저를 초기화 합니다.
 
@@ -74,7 +74,7 @@ console1 :>>  true boolean
 
 <br />
 
-# 2. Typescript 란
+## 2. Typescript 란
 
 - 이미 많은 설명과 글들이 존재하기에 몇몇 링크로 대신합니다.
 
@@ -89,11 +89,11 @@ console1 :>>  true boolean
 
 <br />
 
-# 3. Typescript Basic
+## 3. Typescript Basic
 
 - 자주 사용되는 [자바스크립트의 자료형](https://seniya.github.io/blog/2019/02/26/33-js-concepts-02-primitive-data-type)을 통하여 기본 사용법을 안내합니다.
 
-## 3-1 기본형 boolean
+### 3-1 기본형 boolean
 
 ```js
 // [source] main.ts
