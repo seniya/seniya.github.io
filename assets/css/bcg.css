@@ -20,6 +20,10 @@
     font-weight: 500;
 }
 
+.tile > h4 {
+    color: greenyellow;
+}
+
 .font-fix {
 	font-size: 18px;
 }
